@@ -13,9 +13,8 @@ In order for the scripts to work you need to have:
 
 ![](gif_export.gif) <br />
  <br />
- <br />
 
-<br /><b>Import from POEditor to iOS Project</b>
+<b>Import from POEditor to iOS Project</b>
 
 ![](gif_import.gif)
 
