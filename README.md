@@ -9,6 +9,15 @@ In order for the scripts to work you need to have:
 - ["Requests", an HTTP Python Library](http://docs.python-requests.org/en/master/)
 
 # Usage
+<b>Export from iOS Project to POEditor.</b>
+
+![](gif_export.gif) <br />
+ <br />
+ <br />
+
+<br /><b>Import from POEditor to iOS Project</b>
+
+![](gif_import.gif)
 
 # Testing
 To test the scripts, you need a POEditor account. You can create a free trial account.
